@@ -1,0 +1,31 @@
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+.env.local
+.vite/
+
+# Python / Backend
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python/
+env/
+venv/
+backendvenv/ # Your specific virtual environment folder
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+
+# Operating System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Supabase related (if any local config)
+supabase/
